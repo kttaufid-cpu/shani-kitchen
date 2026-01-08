@@ -1,0 +1,6 @@
+name = "shani-kitchen"
+compatibility_date = "2024-01-01"
+
+[build]
+command = "echo 'Static site - no build needed'"
+publish = "."
